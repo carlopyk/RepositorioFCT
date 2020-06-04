@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleFCT", "ConsoleFCT\ConsoleFCT.csproj", "{4DBE737F-45C6-4A7D-B48D-23904B9F6ABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DBE737F-45C6-4A7D-B48D-23904B9F6ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DBE737F-45C6-4A7D-B48D-23904B9F6ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DBE737F-45C6-4A7D-B48D-23904B9F6ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DBE737F-45C6-4A7D-B48D-23904B9F6ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82B9EE35-EE6C-4126-BC76-3DAD69400D89}
+	EndGlobalSection
+EndGlobal
